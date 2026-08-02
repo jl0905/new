@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Price Guess</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main id="app">
+      <header class="topbar">
+        <h1>Price&nbsp;Guess</h1>
+        <div class="progress" id="progress" hidden>
+          <span id="progress-text"></span>
+          <span class="score" id="score"></span>
+        </div>
+      </header>
+
+      <section id="stage" class="stage">
+        <p class="loading">Loading round…</p>
+      </section>
+    </main>
+
+    <template id="tpl-item">
+      <figure class="photo">
+        <img alt="" />
+        <figcaption class="attribution"></figcaption>
+      </figure>
+
+      <div class="panel">
+        <p class="eyebrow"></p>
+        <h2 class="dish"></h2>
+        <p class="desc"></p>
+
+        <form class="guess">
+          <label class="amount">
+            <span class="currency">$</span>
+            <input type="number" step="0.01" inputmode="decimal" required />
+          </label>
+          <input type="range" class="slider" />
+          <div class="bounds"><span class="lo"></span><span class="hi"></span></div>
+          <button type="submit">Lock it in</button>
+        </form>
+
+        <div class="reveal" hidden>
+          <p class="verdict"></p>
+          <p class="actual"></p>
+          <p class="meta"></p>
+          <button class="next" type="button">Next dish</button>
+        </div>
+      </div>
+    </template>
+
+    <template id="tpl-summary">
+      <div class="summary">
+        <p class="eyebrow">Round complete</p>
+        <h2 class="total"></h2>
+        <p class="accuracy"></p>
+        <pre class="share"></pre>
+        <ul class="breakdown"></ul>
+        <button class="again" type="button">Play again</button>
+      </div>
+    </template>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

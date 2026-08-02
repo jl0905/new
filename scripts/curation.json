@@ -1,0 +1,17 @@
+{
+  "_comment": [
+    "Manual image->dish linkage for assets the saved page did not associate inline.",
+    "Grubhub's menu list is virtualized: only the two carousel items carry an inline",
+    "background-image URL. The remaining photos were downloaded by the browser but",
+    "arrive in the _files directory with no surviving link to a dish. Each entry below",
+    "was assigned by looking at the photo and matching it to a menu row.",
+    "confidence: high = unambiguous dish, medium = plausible but the menu has near",
+    "neighbours, low = genuinely ambiguous (excluded from the playable pool)."
+  ],
+  "links": [
+    { "asset": "bs0nniq80dvjbkettikw", "dish_name": "Kobeeda Kabob Platter", "confidence": "high", "note": "single long flat ground-beef kabob = kobeeda/kubideh" },
+    { "asset": "ywhiqc5srkbgvvrga896", "dish_name": "Falafel Platter", "confidence": "high", "note": "three fried falafel patties over rice" },
+    { "asset": "diuvs0pfxomy2ojykehc", "dish_name": "Lamb Kabob Platter", "confidence": "medium", "note": "cubed grilled meat; could also be beef chunks" },
+    { "asset": "wdmqkmk17lgziwbjjfrj", "dish_name": null, "confidence": "low", "note": "a foil-wrapped wrap + curry; menu has 6 wraps from $11.69-$18.19, not resolvable" }
+  ]
+}

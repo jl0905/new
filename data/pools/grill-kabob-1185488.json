@@ -1,0 +1,178 @@
+{
+  "generated_from": "Grill Kabob Delivery Menu _ Order Online _ 6500 Springfield Mall Springfield _ Grubhub.html",
+  "restaurant": {
+    "source_id": "https://www.grubhub.com/restaurant/grill-kabob-6500-springfield-mall-springfield/1185488",
+    "source_url": "https://www.grubhub.com/restaurant/grill-kabob-6500-springfield-mall-springfield/1185488",
+    "name": "Grill Kabob",
+    "city": "Springfield",
+    "region": "VA",
+    "country": "US",
+    "price_range": "$$",
+    "cuisine_tags": [
+      "afghan",
+      "middle eastern"
+    ]
+  },
+  "items": [
+    {
+      "item_id": "itm_7935721b14",
+      "dish_name": "Beef Kabob Platter",
+      "description": "Served with fresh baked, steamed basmati rice and salad.",
+      "image": {
+        "url": "/img/itm_7935721b14.jpg",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Grill Kabob",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/grill-kabob-6500-springfield-mall-springfield/1185488"
+        }
+      },
+      "restaurant": {
+        "name": "Grill Kabob",
+        "city": "Springfield",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "afghan",
+          "middle eastern"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1689,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "inline",
+      "captured_at": "2026-08-02T18:08:31Z"
+    },
+    {
+      "item_id": "itm_b5921afae6",
+      "dish_name": "Chicken Kabob Platter",
+      "description": "Grilled chicken breast served with fresh baked bread, steamed basmati rice and salad.",
+      "image": {
+        "url": "/img/itm_b5921afae6.jpg",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Grill Kabob",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/grill-kabob-6500-springfield-mall-springfield/1185488"
+        }
+      },
+      "restaurant": {
+        "name": "Grill Kabob",
+        "city": "Springfield",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "afghan",
+          "middle eastern"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1559,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "inline",
+      "captured_at": "2026-08-02T18:08:31Z"
+    },
+    {
+      "item_id": "itm_e293fd3bbe",
+      "dish_name": "Falafel Platter",
+      "description": null,
+      "image": {
+        "url": "/img/itm_e293fd3bbe.jpg",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Grill Kabob",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/grill-kabob-6500-springfield-mall-springfield/1185488"
+        }
+      },
+      "restaurant": {
+        "name": "Grill Kabob",
+        "city": "Springfield",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "afghan",
+          "middle eastern"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1299,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "curation",
+      "captured_at": "2026-08-02T18:08:31Z"
+    },
+    {
+      "item_id": "itm_b51695ed90",
+      "dish_name": "Kobeeda Kabob Platter",
+      "description": "Served with fresh baked bread, steamed basmati rice and salad.",
+      "image": {
+        "url": "/img/itm_b51695ed90.jpg",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Grill Kabob",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/grill-kabob-6500-springfield-mall-springfield/1185488"
+        }
+      },
+      "restaurant": {
+        "name": "Grill Kabob",
+        "city": "Springfield",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "afghan",
+          "middle eastern"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1559,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "curation",
+      "captured_at": "2026-08-02T18:08:31Z"
+    },
+    {
+      "item_id": "itm_a149511115",
+      "dish_name": "Lamb Kabob Platter",
+      "description": "Served with fresh baked bread, steamed basmati rice and salad.",
+      "image": {
+        "url": "/img/itm_a149511115.jpg",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Grill Kabob",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/grill-kabob-6500-springfield-mall-springfield/1185488"
+        }
+      },
+      "restaurant": {
+        "name": "Grill Kabob",
+        "city": "Springfield",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "afghan",
+          "middle eastern"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1949,
+        "currency": "USD"
+      },
+      "price_confidence": "medium",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "curation",
+      "captured_at": "2026-08-02T18:08:31Z"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# HAR captures contain your Grubhub session cookies and auth tokens.
+# Keep them local — they are ingest input, not source.
+*.har
+
+# Saved page snapshots: bulky, and regenerable by re-saving.
+pages/*_files/

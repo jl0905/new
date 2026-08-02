@@ -1,0 +1,2459 @@
+{
+  "generated_from": "www.grubhub.com.har",
+  "restaurant": {
+    "source_id": "3355443",
+    "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443",
+    "name": "Taco Rock",
+    "city": "Alexandria",
+    "region": "VA",
+    "country": "US",
+    "cuisine_tags": [
+      "mexican",
+      "tacos"
+    ]
+  },
+  "items": [
+    {
+      "item_id": "itm_01b5cf1629",
+      "dish_name": "Ahi Tuna",
+      "description": "fresh sashimi tuna, seaweed salad, sesame/ginger slaw, crispy wonton, cucumber wasabi sauce, fresnos peppers",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_01b5cf1629.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 525,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_d3102418da",
+      "dish_name": "Al Pastor",
+      "description": "achiote marinated pork shoulder, diced char-grilled pineapple, radish onions, cilantro",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_d3102418da.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 395,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_e5aa179d5c",
+      "dish_name": "Bacon Breakfast Taco.",
+      "description": "eggs, cheese, crema, guacamole, pico de gallo",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_e5aa179d5c.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 450,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_a7303c08ae",
+      "dish_name": "Barbacoa Cordero",
+      "description": "Braised lamb, chimichurri salsa, radish, onions, cilantro",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_a7303c08ae.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_501b8053d8",
+      "dish_name": "Beans",
+      "description": "black beans",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_501b8053d8.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_902abd950c",
+      "dish_name": "BIG TONYS TACO",
+      "description": "gringo, rice, beans, queso, jack cheese, lettuce, pico de gallo, pickled jalapeños, chipotle ranch served in a 12\" crispy flour tortilla",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_902abd950c.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1500,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_3fc599ba90",
+      "dish_name": "Birria",
+      "description": "SERVED ON A FLOUR TORTILLA braised beef, melted cheese, onion, cilantro, beef consumme for dipping",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_3fc599ba90.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_86f4eb00ed",
+      "dish_name": "Birria Crunchy Supreme Wrap",
+      "description": "Mozzerella cheese, queso, crispy tortilla, pico de Gallo, lettuce, Mexican cream, side of consume",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_86f4eb00ed.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1300,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_9c15b000b7",
+      "dish_name": "Birria Eggrolls",
+      "description": "crispy eggrolls loaded with birria, onions and cheese",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_9c15b000b7.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 900,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_01ae5f4ef7",
+      "dish_name": "Birria Pizza",
+      "description": "10\" crispy tortilla, braised beef, melted cheese, onion, cilantro, topped with guacamole, served with beef consomme on side",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_01ae5f4ef7.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_b3cec93634",
+      "dish_name": "Birria Ramen Soup",
+      "description": "ramen noodles, braised beef, roasted corn, birria consumme, pickled fresno, cilantro, scallion",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_b3cec93634.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_51d55d9808",
+      "dish_name": "Blackened Salmon",
+      "description": "blackened atlantic salmon, char-corn, queso fresco, cilantro, guacamole",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_51d55d9808.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 525,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_c9eb09153d",
+      "dish_name": "Blazing Cauli",
+      "description": "roasted cauliflower, tossed in buffalo sauce, lettuce, jack cheese, ranch dressing,",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_c9eb09153d.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 475,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_e5568a2685",
+      "dish_name": "Breakfast Burrito",
+      "description": "scrambled eggs, bacon, chorizo, jack cheese, chipotle sauce",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_e5568a2685.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 800,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_971b4300cb",
+      "dish_name": "Buffalo Chicken",
+      "description": "crispy chicken, jack cheese, creamy slaw, pickles, tomatoes, comeback sauce, scallions",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_971b4300cb.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1395,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_7c1892b17f",
+      "dish_name": "Burrito",
+      "description": "rice, black beans, lettuce, jack cheese, sour cream, choice of protein",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_7c1892b17f.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1000,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_0f4410739d",
+      "dish_name": "Cabo Wabo Sandwich",
+      "description": "fried chicken breast, melted jack cheese, guacamole, bacon, lettuce, tomato, chipotle mayo",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_0f4410739d.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1300,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_dcd4ad241a",
+      "dish_name": "Caribbean Shrimp",
+      "description": "jerk shrimp, jack cheese, mango salsa, fresno peppers",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_dcd4ad241a.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1595,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_f3e20efd50",
+      "dish_name": "Carnitas",
+      "description": "pork carnitas, onion, cilantro, radish",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_f3e20efd50.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 395,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_08c8924585",
+      "dish_name": "Ceviche",
+      "description": "white fish, shrimp, red onions, diced tomatoes, diced avocado, jalapeños in a citrus marinade, served with tortilla chips",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_08c8924585.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1500,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_fe5a0d5308",
+      "dish_name": "Chicken Flautas",
+      "description": "3 crispy hand rolled blue corn tortilla stuffed with chicken and cheese, topped with melted queso, pico, lettuce, sour cream",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_fe5a0d5308.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 900,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_c5a3871cc5",
+      "dish_name": "Chilly Belly",
+      "description": "spicy glazed pork belly, cabbage slaw, pickled onion, green onion sesame seeds",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_c5a3871cc5.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_213cea2374",
+      "dish_name": "Churro Cheesecake",
+      "description": "Churro cheesecake, topped with whipped cream and cinnamon sugar and drizzled with caramel sauce.",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_213cea2374.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 700,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_9917313d77",
+      "dish_name": "Churros",
+      "description": "Churros with cinnamon sugar and chocolate drizzle",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_9917313d77.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 600,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_271d7b8906",
+      "dish_name": "Coconut Shrimp",
+      "description": "coconut tempura fried shrimp, slaw, tropical pico de gallo, sweet chili glaze, coconut flakes, fresno peppers, cilantro",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_271d7b8906.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 525,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_ad6ba125d2",
+      "dish_name": "Colonel Sanders",
+      "description": "spicy fried chicken, cole slaw, kosher pickles, comeback sauce",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_ad6ba125d2.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_5c0f27b5ea",
+      "dish_name": "Double Deuce",
+      "description": "double stacked steak & chicken, chimuchurri, lettuce, pico de gallo, black beans, chipotle cream sauce",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_5c0f27b5ea.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_96afa49e3c",
+      "dish_name": "El Gringo",
+      "description": "ground beef, lettuce, pico de gallo, crispy jack cheese, ranch, flour tortilla",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_96afa49e3c.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 395,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_4d0281215e",
+      "dish_name": "Elote",
+      "description": "street corn- grilled corn, queso fresco, mayonnaise piquin, chili ashes",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_4d0281215e.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_e7bc42883a",
+      "dish_name": "Elote Fuego",
+      "description": null,
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_e7bc42883a.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 500,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_41e003f926",
+      "dish_name": "Elote Surf & Turf",
+      "description": "cripsy shrimp, marinated steak, street corn, queso fresco, aioli, tajin, fresno peppers, cilantro, served on a flour tortilla",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_41e003f926.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 575,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_c083d44633",
+      "dish_name": "Empanadas",
+      "description": "1 ground beef, 1 chicken latin turnover with jack cheese. Served with rock sauce",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_c083d44633.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 700,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_5aae7cfa6a",
+      "dish_name": "Fajitas",
+      "description": "Fajita Fridays $3 OFF! served with sautéed onions, peppers, Mexican rice, black beans, pico de gallo, sour cream, guacamole and flour tortillas.",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_5aae7cfa6a.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1800,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_17d1404785",
+      "dish_name": "Flaming Poppers",
+      "description": "colossal poppers stuffed with mexican cheese then fried in our spicy breading",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_17d1404785.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 900,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_d513417336",
+      "dish_name": "Fried Avocado",
+      "description": "roasted corn, pico de gallo, mexican crema",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_d513417336.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 475,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_c38b5f265a",
+      "dish_name": "Fried Plantains",
+      "description": "4 pc served with crema",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_c38b5f265a.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 500,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_9a59b3f380",
+      "dish_name": "General Tso",
+      "description": "cauliflower, sesame/ginger slaw, spring onions, thai chili, toasted sesame seeds",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_9a59b3f380.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 475,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_beb86f34aa",
+      "dish_name": "Gordito Style Birria Crunch Wrap",
+      "description": "braised beef, melted cheese, lettuce, pico de gallo, served with a side of consume and topped with sizzling chipotle or jalapeño queso!",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_beb86f34aa.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1600,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_ac01f474e7",
+      "dish_name": "Gordito Style Birria Crunch Wrap",
+      "description": "braised beef, melted cheese, lettuce, pico de gallo, served with a side of consume and topped with sizzling chipotle or jalapeño queso!",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_ac01f474e7.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1600,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_4016a52254",
+      "dish_name": "Gordito Style Burrito",
+      "description": "rice, beans, lettuce, jack cheese, sour cream, choice of protein - topped with sizzling chipotle or jalapeno queso!",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_4016a52254.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1300,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_1490d81576",
+      "dish_name": "Gordito Style Fajitas",
+      "description": "sauteed peppers and onions, served with rice and beans. side of sour cream, guacamole, pico de gallo, and jack cheese. topped with sizzling chipotle or jalapeno queso!",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_1490d81576.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 2100,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_f6e8f51d52",
+      "dish_name": "Gordito Style Nachos",
+      "description": "chips, melted mexican cheese blend, black beans, roasted corn, pico de gallo, sour cream, and cilantro. topped with sizzling chipotle or jalapeno queso!",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_f6e8f51d52.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_d6d2d308fb",
+      "dish_name": "Gordito Style Rock N Bowl",
+      "description": "rice or lettuce, beans, corn relish, cilantro, guacamole, pico de gallo, jalapeno salsa, served in a tortilla shell. choice of chicken, steak or veggies. topped with sizzling chipotle or jalapeno queso!",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_d6d2d308fb.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_6d997d8d5b",
+      "dish_name": "Gringo Pizza",
+      "description": "ground beef, jack cheese, shredded lettuce, pico de gallo, onions, jalapenos, cilantro, enchilada sauce, mexican crema, spring onion",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_6d997d8d5b.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1200,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_37fb16715e",
+      "dish_name": "Key West Grouper",
+      "description": "tequila battered, house slaw, pico de Gallo, chipotle mayo",
+      "menu_category": "Specialty Tacos",
+      "image": {
+        "url": "/img/itm_37fb16715e.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 525,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_d4f642317d",
+      "dish_name": "Langosta",
+      "description": "fresh buttered lobster with seasoned slaw, chipotle crema, diced avocado, fresh pico de gallo, onions, celery, scallions served on a puffy flour tortilla shell.",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_d4f642317d.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 895,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_a8f5ebe287",
+      "dish_name": "Lengua",
+      "description": "braised beef tongue, chimichurri, Fresno peppers, radish, onions, cilantro",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_a8f5ebe287.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 395,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_0f87169b68",
+      "dish_name": "Loaded Carnitas",
+      "description": "8 hour slow roasted pork, crispy cheese, bacon, pickled red onion, cilantro, jalapeno salsa",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_0f87169b68.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_a49a686de0",
+      "dish_name": "Lomo Saltado",
+      "description": "marinated steak, rice, onions, green peppers, tomatoes, black beans, shoestring potato fries",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_a49a686de0.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_9f844514cb",
+      "dish_name": "Mexican Fried Rice",
+      "description": "mexican fried rice with chorizo & egg",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_9f844514cb.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 700,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_74970feff4",
+      "dish_name": "Nachos",
+      "description": "chips, melted mexican cheese blend, black beans, roasted com, guacamole, chipotle crema, jalapeños, pico de gallo, cilantro",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_74970feff4.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1100,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_55f8b9cb2c",
+      "dish_name": "No Days Off Sparkling Water",
+      "description": "16 oz. premium beverage crafted using advanced reverse osmosis filtration.",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_55f8b9cb2c.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 350,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_8c11fb4f0e",
+      "dish_name": "No Days Off Still Water",
+      "description": "16 oz. premium beverage crafted using advanced reverse osmosis filtration.",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_8c11fb4f0e.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 350,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_165b75c604",
+      "dish_name": "Oreo Tres Leches",
+      "description": "oreo filled sponge cake with three types of milk and topped with oreo cream",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_165b75c604.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 700,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_0cc9b85350",
+      "dish_name": "Pacifico",
+      "description": "skirt steak, grilled shrimp, crunchy radish, pickled red onions, ancho sauce, cilantro",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_0cc9b85350.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 575,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_b9580cb427",
+      "dish_name": "Puff Chips w/ Salsa",
+      "description": "homemade puff blue chips served with salsa click to add, guacamole, queso, queso/gringo",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_b9580cb427.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 800,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_82c3a797ef",
+      "dish_name": "Puffy Beef",
+      "description": "SERVED ON A FLOUR TORTILLA seasoned ground beef, melted queso, jalapenos, monterey jack cheese, mexican crema, flaming hot Cheetos",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_82c3a797ef.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_78d77989d9",
+      "dish_name": "Pupusa Taco Special",
+      "description": "Cheese pupusa topped with your choice of: carne asada, pollo, carnitas. Option for Birria style for +$1.50.",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_78d77989d9.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 600,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_ff00427862",
+      "dish_name": "Quesadilla",
+      "description": "flour tortilla, monterey jack cheese. comes with a side of guacamole, sour cream, pico de gallo, choice of protein",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_ff00427862.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 800,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_eba435bdb8",
+      "dish_name": "Rice",
+      "description": "Mexican yellow rice",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_eba435bdb8.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_e4c074e0a5",
+      "dish_name": "Rock N Bowl",
+      "description": "rice or lettuce or both, black beans, corn relish, cilantro, pico de gallo, served in a crispy tortilla shell choice of: rock sauce, chipotle mayo or Mexican crema",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_e4c074e0a5.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1100,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_07a7e01323",
+      "dish_name": "Rockfish",
+      "description": "crispy rockfish, tropical pineapple pico de gallo, house slaw, ancho chipotle sauce, fresno peppers, cilantro",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_07a7e01323.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 525,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_8e4494ab0d",
+      "dish_name": "Shake Down Shrimp",
+      "description": "tempura fried shrimp, house slaw, pico de gallo, chipotle mayo, cilantro, pickled fresno",
+      "menu_category": "Specialty Tacos",
+      "image": {
+        "url": "/img/itm_8e4494ab0d.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 525,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_9bbe48eba0",
+      "dish_name": "Side Chips & Salsa",
+      "description": "regular tortilla chips + salsa",
+      "menu_category": "Sides",
+      "image": {
+        "url": "/img/itm_9bbe48eba0.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 500,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_841d16460c",
+      "dish_name": "Side Guacamole",
+      "description": "guacamole only",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_841d16460c.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 400,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_edb537e0e6",
+      "dish_name": "Side Queso",
+      "description": "queso only",
+      "menu_category": "Sides",
+      "image": {
+        "url": "/img/itm_edb537e0e6.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 300,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_de4133c41c",
+      "dish_name": "Side Salsa",
+      "description": null,
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_de4133c41c.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 200,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_6d509e6b67",
+      "dish_name": "Side Sour Cream",
+      "description": null,
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_6d509e6b67.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 50,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_4f042ed369",
+      "dish_name": "Smash Burger",
+      "description": "*SERVED ON A FLOUR TORTILLA* Seasoned beef patty, American cheese, pico de gallo, lettuce, smash sauce",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_4f042ed369.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_974e8aede1",
+      "dish_name": "Stuffed Poblano",
+      "description": "grilled poblano stuffed with gringo meat and mozzarella topped with roasted red pepper salsa",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_974e8aede1.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_38fba9c0d1",
+      "dish_name": "The Cuban",
+      "description": "ham, roasted pork, swiss cheese, pickles, mustard hot-pressed on cuban bread",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_38fba9c0d1.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 1300,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_32ac36c745",
+      "dish_name": "The Memphis",
+      "description": "braised beef bbq brisket, grilled onions, jalapenos, chopped pickles, char corn slaw",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_32ac36c745.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_a9790da0d6",
+      "dish_name": "We Jammin",
+      "description": "grilled jerk chicken, cabbage, jerk sauce, mango pico de gallo, fresno peppers",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_a9790da0d6.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 495,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    },
+    {
+      "item_id": "itm_ae72c09fa2",
+      "dish_name": "Whole Grain Apple Churros",
+      "description": "Whole grain apple churros tossed in cinnamon sugar, drizzled with caramel sauce",
+      "menu_category": null,
+      "image": {
+        "url": "/img/itm_ae72c09fa2.avif",
+        "attribution": {
+          "text": "Menu photo via Grubhub — Taco Rock",
+          "source": "grubhub",
+          "source_url": "https://www.grubhub.com/restaurant/taco-rock-6550-little-river-turnpike-space-50-alexandria/3355443"
+        }
+      },
+      "restaurant": {
+        "name": "Taco Rock",
+        "city": "Alexandria",
+        "region": "VA",
+        "country": "US",
+        "cuisine_tags": [
+          "mexican",
+          "tacos"
+        ]
+      },
+      "currency": "USD",
+      "actual_price": {
+        "amount_minor": 700,
+        "currency": "USD"
+      },
+      "price_confidence": "high",
+      "price_source": "delivery_platform_menu",
+      "image_link_method": "source_api",
+      "captured_at": "2026-08-02T18:37:09Z"
+    }
+  ]
+}
