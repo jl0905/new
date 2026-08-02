@@ -4,3 +4,6 @@
 
 # Saved page snapshots: bulky, and regenerable by re-saving.
 pages/*_files/
+
+# extract-menu.mjs output — regenerable from the capture.
+out/

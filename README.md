@@ -33,6 +33,28 @@ node scripts/ingest-har.mjs pages/<capture>.har
 Each restaurant becomes its own `data/pools/<slug>.json`. The server unions every
 pool file at startup, so adding a restaurant is just adding a file.
 
+### Just want the menu, not the game?
+
+```
+node scripts/extract-menu.mjs pages/<capture>.har
+```
+
+Writes `out/<restaurant>/menu.json`, `menu.csv` and `images/<dish>.avif` — name,
+description, price and photo, nothing game-specific. Useful for eyeballing a capture
+before ingesting it, or for anything else you want the data for.
+
+```
+--out <dir>    output directory (default: out)
+--no-images    data only
+--all          keep dishes with no photo or no price (they're skipped by default)
+--quiet        summary line only
+```
+
+Accepts several captures at once: `node scripts/extract-menu.mjs pages/*.har`.
+
+Both scripts read the same parser (`scripts/lib/grubhub-har.mjs`), so if Grubhub
+changes its API shape there's one place to fix.
+
 `scripts/ingest-saved-page.mjs` is the older saved-page path. It survives because it
 handles captures taken without DevTools, but it recovers far fewer dishes and needs
 hand-linking in `scripts/curation.json`. Prefer the HAR.
@@ -44,7 +66,9 @@ hand-linking in `scripts/curation.json`. Prefer the HAR.
 | Path | Role |
 |---|---|
 | `pages/` | Raw captures. Ingest input, never served. |
-| `scripts/ingest-har.mjs` | HAR → pool. The good path. |
+| `scripts/lib/grubhub-har.mjs` | HAR parser. Shared, writes nothing, knows nothing about the game. |
+| `scripts/extract-menu.mjs` | HAR → plain menu.json + menu.csv + images. |
+| `scripts/ingest-har.mjs` | HAR → game pool. The good path. |
 | `scripts/ingest-saved-page.mjs` | Saved page → pool. Fallback. |
 | `scripts/curation.json` | Hand-assigned photo↔dish links for the fallback path. |
 | `data/pools/*.json` | One pool per restaurant, prices included. Never sent to a client wholesale. |
