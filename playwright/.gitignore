@@ -1,0 +1,7 @@
+node_modules/
+dist/
+storage-state/
+browser-profiles/
+.env
+.env.local
+*.log

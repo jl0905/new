@@ -1,0 +1,22 @@
+{
+  "name": "grubhub-price-scraper",
+  "version": "0.1.0",
+  "description": "Scrape GrubHub menu item prices for a price-guessing game",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "auth": "tsx src/auth.ts",
+    "scrape": "tsx src/scrape.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.0",
+    "playwright": "^1.49.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}
